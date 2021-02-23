@@ -26,6 +26,7 @@ Full configuration options are documented in [`PublisherBitbucketConfig`](https:
       "username": "myusername",
       "appPassword": "mysecretapppassword"
     }
+  }
 }
 ```
 
